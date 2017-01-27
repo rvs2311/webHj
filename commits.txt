@@ -1,0 +1,19 @@
+﻿commit d07caac576ed516bfaabafd45fbf5387d19cb24f
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 02:53:47 2017 -0500
+
+    se coloco un estilo a las horas de los cursos en formacion adicional
+
+
+commit 45758318c4b7aeda63b5479afcca43570e975fa7
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 02:41:40 2017 -0500
+
+    corregido el problema del span que no ajustaba en pantallas pequeñas
+
+
+commit fed384e4a2c5caf74d55dc2bed7d359742cea4a7
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 02:35:31 2017 -0500
+
+    primera version
