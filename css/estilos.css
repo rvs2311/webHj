@@ -153,6 +153,12 @@ article ul{
 	list-style: square;
 	margin-left: 24px;
 }
+.horas{
+
+	position: absolute;
+	color: #E84C3D;
+	font-weight: bold;
+}
 @media screen and (min-width:767px){
 	
 }
