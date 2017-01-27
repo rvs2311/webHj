@@ -139,9 +139,12 @@ article p.titulo{
 	font-size: 1.3em;
 
 }
+
+
+
 article p span{
-	text-align: right;
-	float: right;
+	text-align: left;
+	float: left;
 	font-weight: bold;
 
 }
@@ -181,6 +184,13 @@ article ul{
 	width: 75%;
 	border: 2px solid black:;
 }
+
+	article p span{
+	text-align: right;
+	float: right;
+	font-weight: bold;
+
+	}
 
 	footer {
 
