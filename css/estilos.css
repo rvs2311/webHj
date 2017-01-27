@@ -1,0 +1,209 @@
+/*********Generales***************/
+/*********************************/
+
+*{
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background: #525659;
+	font-family: 'Roboto', sans-serif; 
+	font-size: 14px;
+	text-align: center;
+}
+
+div ul{
+	list-style: none;
+	padding: 0px;
+	line-height: 22px;
+}
+
+a:link {
+    color: #E84C3D;
+}
+
+/* visited link */
+a:visited {
+    color: #E84C3D;
+}
+
+/* mouse over link */
+a:hover {
+    color: #c92618;
+}
+/*********Navegacion**************/
+/*********************************/
+div.fondo{
+	position: absolute;
+	background: #FFFFFF;
+	margin: 10px 0% 4px 0%;
+	width: 100%
+} 
+
+div.fondo nav{
+	width: 94%;
+	/*border: 1px solid red;*/
+	margin: 0px 2%;
+}
+
+div.fondo nav figcaption img{
+	width: 100px;
+	border-radius: 50px;
+	margin: 60px 0px 5px 5px;
+}
+
+div.fondo nav ul li{
+	width: 60%;
+	padding-bottom: 15px;
+	margin-top: 40px;
+	border-bottom: 5px solid #E84C3D;
+	text-align: left;
+	line-height: 1px;
+	color:#E84C3D;
+	font-weight: bold;
+	display: none;
+
+
+}
+div.fondo nav ul li:hover{
+	color:#c92618; 
+}
+
+
+
+
+/*********Cabecera**************/
+/*********************************/
+header{
+	position:relative;
+	margin-bottom: 40px;
+	margin-top: 5px;
+}
+nav,header,section,footer {
+	float: left;
+	width: 96%;
+}
+header h1{
+	font-weight: bold;
+	font-size: 3em;
+	border-bottom: 5px solid #E84C3D;
+	text-align: left;
+}
+header span{
+	color: #E84C3D;
+	font-weight: bold;
+}
+header div.andrees,header div.contact{
+	display: inline-block;
+
+}
+header div.andrees{
+	text-align: left;
+	float: left;
+}
+header div.contact{
+	text-align: left;
+	float: left;
+}
+
+
+/*********Cuerpo**************/
+/*********************************/
+section article h1 span{
+	border-left: #E84C3D 60px solid;
+    padding-left: 10px;
+    font-size: 0.7em;
+}
+section article h1{
+	font-size: 1.5em;
+	color: #E84C3D;
+	text-align: left;
+
+	
+}
+section article p{
+	width: 99%;
+	text-align: justify;
+	line-height: 25px;
+	font-size: 1.1em;
+	display: inline-block;
+}
+article {
+	border-bottom: 2px solid black;
+	margin: 5px 1% 45px 1%; 
+	padding-bottom: 20px;
+}
+article p.titulo{
+	font-weight: bold;
+	font-size: 1.3em;
+
+}
+article p span{
+	text-align: right;
+	float: right;
+	font-weight: bold;
+
+}
+article ul{
+	text-align: left;
+	list-style: square;
+	margin-left: 24px;
+}
+@media screen and (min-width:767px){
+	
+}
+@media screen and (min-width:950px){
+	div.fondo{
+		margin: 60px 2% 4px 2%;
+		width: 96%;
+	}
+	div.fondo nav{
+		width:15%;
+		 
+
+	} 
+	div.fondo nav ul li{
+		width: 95%;
+		display: block;
+	}
+
+	header div.andrees{
+	text-align: left;
+	float: left;
+}
+	header div.contact{
+		text-align: right;
+		float: right;
+	}
+	nav,header,section{
+	float: left;
+	width: 75%;
+	border: 2px solid black:;
+}
+
+	footer {
+
+		
+		background: #E84C3D;
+		color: #FFFFFF;
+		text-align: center; 
+		width: 100%;
+
+	}
+	footer a:link {
+    color: #FFFFFF;
+}
+
+/* visited link */
+footer a:visited {
+    color: #FFFFFF;
+}
+
+/* mouse over link */
+footer a:hover {
+    color: #c92618;
+}
+
+
+}
