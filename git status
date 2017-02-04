@@ -1,0 +1,35 @@
+[33mcommit d2e518981671547bb7c338b7bc256e385267471e[m
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Sat Jan 28 08:54:09 2017 -0500
+
+    final
+
+[33mcommit 907ce0f03e68d87851df210393b84940c4d74f59[m
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 03:30:56 2017 -0500
+
+    se arreglo subrayado de los links de la barra lateral
+
+[33mcommit d61e3394b4f00dd5044ac266acb96ee7a0fc5306[m
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 02:53:47 2017 -0500
+
+    se coloco un estilo a las horas de los cursos en formacion adicional
+
+[33mcommit d464d5c66a361cde670d47424905863122233fab[m
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 02:41:40 2017 -0500
+
+    corregido el problema del span que no ajustaba en pantallas pequeñas
+
+[33mcommit dccbb515adb6750bcd471b2f5210bc75f863aeb2[m
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 02:35:31 2017 -0500
+
+    primera version
+
+[33mcommit f10e1bccc1d3044b3749bf8306519152a4739e8d[m
+Author: rvs2311 <rvs2311@gmail.com>
+Date:   Fri Jan 27 16:21:44 2017 -0500
+
+    Initial commit
